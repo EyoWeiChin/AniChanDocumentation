@@ -745,7 +745,7 @@ In the folder where **AniChan** is launched, there will be a `data` folder which
 ![Data Loaded on Startup](images/Data-Loaded-On-Startup.png) <br/> 
 *Figure 4: Example of Data Loaded On Startup*
 
-<br/>
+<div style="page-break-after: always;"></div>
 
 ## 4. FAQ
 
@@ -763,7 +763,7 @@ In the folder where **AniChan** is launched, there will be a `data` folder which
 <br/>
 **A:** Yes! As **AniChan** saves and loads your information from the data directory, editing the files in `data` folder works. However, we would strongly recommend you not to as you may cause data corruption. Use **AniChan** instead if you wish to edit your information!
 
-<br/>
+<div style="page-break-after: always;"></div>
 
 ## 5. Command Summary
 
