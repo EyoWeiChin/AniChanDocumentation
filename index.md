@@ -122,8 +122,6 @@ You can also view details of specific commands by specifying the optional comman
 
 Format: `help [COMMAND_TYPE]`
 
-<br/>
-
 ### 3.2 Estimate time needed to translate the script
 
 This command allows you to estimate the time needed to translate a script. It estimates based on the amount of words you can translate in an hour, or by using the average translators’ speed of 400, 500, and 600 words per hour. Hence, this would allow you to better manage and plan your time.
