@@ -4,15 +4,13 @@
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ![Support OS](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-blue) ![Size](https://img.shields.io/github/repo-size/AY2021S1-CS2113T-F12-2/tp) ![Java](https://img.shields.io/badge/built--in-java-brightgreen)
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<div style="page-break-after: always;"></div>
 
 ## Table of Contents
 1.  [Introduction](#1-introduction)
 <br/>&nbsp;1.1 [Purpose](#11-purpose)
 <br/>&nbsp;1.2 [Using this Guide](#12-using-this-guide)
-
 2.  [Quick Start](#2-quick-start)
-
 3.  [Features](#3-features)
 <br/>&nbsp;3.1 [View the help](#31-view-the-help)
 <br/>&nbsp;3.2 [Estimate time need to translate the script](#32-estimate-time-needed-to-translate-the-script)
@@ -44,12 +42,10 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.8.7 [View information of a bookmark entry](#387-view-information-of-a-bookmark-entry)
 <br/>&nbsp;3.9 [Exit AniChan](#39-exit-anichan)
 <br/>&nbsp;3.10 [Saving and loading data](#310-saving-and-loading-data)
-
 4.  [FAQ](#4-faq)
-
 5.  [Command Summary](#5-command-summary)
 
-<br/>
+<div style="page-break-after: always;"></div>
 
 ## 1. Introduction
 
@@ -75,7 +71,7 @@ Along the way you might encounter several icons. These icons will provide you wi
 
 Lastly, text that is blue like this [example](#12-using-this-guide), are clickable links that will bring you to the relevant part of this user guide. 
 
-<br/>
+<div style="page-break-after: always;"></div>
 
 ## 2. Quick Start
 
@@ -90,7 +86,7 @@ Lastly, text that is blue like this [example](#12-using-this-guide), are clickab
 ![First Time Setup](images/User-Guide-Setting-Up.png) <br/>
 *Figure 1: Example of First Time Setup*
 
-<br/>
+<div style="page-break-after: always;"></div>
 
 ## 3. Features 
 **Some useful notes on the command format of AniChan**
