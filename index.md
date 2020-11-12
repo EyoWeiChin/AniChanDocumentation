@@ -111,7 +111,7 @@ E.g. Both `browse -s name -p 2` and `browse -p 2 -s name` gives the same result,
 > :bulb: **AniChan**'s Input Prompt: 
 > <br/> <br/> ![AniChan's Input Prompt](images/AniChan-Input-Prompt.png) <br/> *Figure 2: **AniChan**'s Input Prompt*
 
-<br/>
+<div style="page-break-after: always;"></div>
 
 ### 3.1 View the help
 
