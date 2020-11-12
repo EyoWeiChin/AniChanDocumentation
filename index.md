@@ -1,6 +1,5 @@
 # AniChan User Guide
 
-![AniChan Logo](images/AniChan-Logo.png)
 <div style="text-align:center"><img src="images/AniChan-Logo.png" /></div>
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ![Support OS](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-blue) ![Size](https://img.shields.io/github/repo-size/AY2021S1-CS2113T-F12-2/tp) ![Java](https://img.shields.io/badge/built--in-java-brightgreen)
